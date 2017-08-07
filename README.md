@@ -23,7 +23,7 @@ In conclusion, destress your current job or find another if you can. But think l
 
 Once they are all pass the Turing test, think of all those scifi movies and books where you just can't tell the difference.
 
--J. Morio Sakaguchi, still human
+-J. Morio Sakaguchi, still human  
 8/7/2017
 
 `CC4 Copyleft 2017 J. Morio Sakaguchi`
