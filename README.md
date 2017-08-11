@@ -2,11 +2,14 @@
 How one could pass the Turing test
 
 Here is my equation.
-P = Person
-G = Google and the internet
-T = Passing the Turing test
-M = Machine learning algorithm
 
+Given:  
+P = Person  
+G = Google and the internet  
+T = Passing the Turing test  
+M = Machine learning algorithm  
+
+Solution:
 1. G + P ~= T
 2. M === P
 3. G + M = T
